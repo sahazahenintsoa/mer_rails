@@ -1,0 +1,2 @@
+class Articleb < ApplicationRecord
+end
